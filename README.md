@@ -1,10 +1,14 @@
 # Exno.6-Prompt-Engg
 # Date: 21.5.25
 # Register no. 212222040091
-# Aim: Development of Python Code Compatible with Multiple AI Tools
+# Aim: 
+
+Development of Python Code Compatible with Multiple AI Tools
 
 
-# Algorithm: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights.
+# Algorithm: 
+
+Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights.
 
 # Prerequisites:
 
@@ -159,4 +163,6 @@ OpenAI ↔ Gemini: 0.695
 Claude ↔ Gemini: 0.702
 
 
-# Result: The corresponding Prompt is executed successfully
+# Result: 
+
+The corresponding Prompt is executed successfully
