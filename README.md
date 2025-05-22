@@ -12,6 +12,18 @@ You need the following installed:
 
 pip install openai requests nltk textblob
 
+# modular framework:
+
+Integrates with multiple AI tools via their APIs (e.g., OpenAI, Claude, Gemini).
+
+Sends the same prompt to each API.
+
+Compares the outputs based on simple metrics (length, sentiment, similarity).
+
+Generates actionable insights (e.g., which AI was most concise or informative).
+
+
+
 # Python Code:
 
 ```
